@@ -1,0 +1,91 @@
+piDesk — Licencia de uso del programa (binario)
+Copyright (c) 2026 itek AI / Gustavo Ferreyra
+Todos los derechos reservados.
+
+Este archivo regula el uso del PROGRAMA EJECUTABLE de piDesk
+(los archivos .AppImage, .deb y .exe distribuidos oficialmente).
+NO regula el uso del código fuente, que tiene su propio aviso
+de copyright en el repositorio de desarrollo del proyecto.
+
+--------------------------------------------------------------------
+1. USO PERMITIDO
+--------------------------------------------------------------------
+
+Se concede permiso, gratuito y sin necesidad de registro ni pago,
+a cualquier persona que obtenga una copia legítima del programa,
+para:
+
+  a) Usar el programa con cualquier propósito, personal o comercial.
+  b) Instalarlo en la cantidad de equipos que desee.
+  c) Redistribuir el instalador ORIGINAL, sin modificaciones,
+     completo, acompañado de este mismo archivo de licencia.
+  d) Compartir el instalador por cualquier medio (mail, blog,
+     foro, servicio de archivos, repositorio espejo, etc.).
+
+--------------------------------------------------------------------
+2. RESTRICCIONES
+--------------------------------------------------------------------
+
+No está permitido:
+
+  a) Modificar, alterar, descompilar, aplicar ingeniería inversa
+     o crear obras derivadas del programa, salvo en la medida en
+     que la ley aplicable lo permita expresamente.
+
+  b) Redistribuir versiones modificadas del programa bajo el
+     nombre "piDesk", "pidesk" o cualquier variante que pueda
+     inducir a confusión con el producto original.
+
+  c) Eliminar, ocultar o modificar los avisos de copyright, el
+     nombre del producto, o este archivo de licencia.
+
+  d) Utilizar el nombre "piDesk" o el nombre del autor para
+     promocionar productos derivados sin autorización por escrito.
+
+  e) Extraer componentes del programa para reutilizarlos en otros
+     productos.
+
+--------------------------------------------------------------------
+3. COMPONENTES DE TERCEROS
+--------------------------------------------------------------------
+
+El programa incluye componentes de software de terceros
+distribuidos bajo sus propias licencias (Electron, React,
+pi-coding-agent, pi-ai y otros). Esas licencias se aplican a
+esos componentes por separado y no son modificadas por este
+documento. Los avisos de licencia correspondientes se incluyen
+junto al programa.
+
+--------------------------------------------------------------------
+4. SIN GARANTÍA
+--------------------------------------------------------------------
+
+EL PROGRAMA SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN
+TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LAS
+GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO
+PARTICULAR Y NO INFRACCIÓN.
+
+EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN
+RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL
+O DE OTRO TIPO, DERIVADA DE, O EN CONEXIÓN CON EL PROGRAMA O SU
+USO.
+
+El usuario es el único responsable de mantener copias de seguridad
+de sus archivos y proyectos. El programa opera directamente sobre
+los archivos del usuario y puede modificarlos; el respaldo es
+responsabilidad exclusiva del usuario.
+
+--------------------------------------------------------------------
+5. ACEPTACIÓN
+--------------------------------------------------------------------
+
+El uso, la instalación o la redistribución del programa implican
+la aceptación de los términos de esta licencia. Quien no acepte
+estos términos no debe usar el programa.
+
+--------------------------------------------------------------------
+itek AI
+https://github.com/itek-ar/pidesk-releases
+2026
+--------------------------------------------------------------------
